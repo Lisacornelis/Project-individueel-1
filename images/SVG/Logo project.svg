@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 183.64 62.25">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+        font-family: Arbotek-Light, Arbotek;
+        font-size: 30px;
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-2" transform="translate(0 24.72) scale(1.05 1)"><tspan class="cls-5" x="0" y="0">Exp</tspan><tspan class="cls-3" x="55.35" y="0">l</tspan><tspan class="cls-6" x="61.89" y="0">o</tspan><tspan class="cls-4" x="79.95" y="0">r</tspan><tspan class="cls-5" x="95.19" y="0">e</tspan><tspan class="cls-6" x="0" y="30">Ams</tspan><tspan class="cls-1" x="66.15" y="30">t</tspan><tspan class="cls-5" x="78.18" y="30">e</tspan><tspan class="cls-4" x="95.61" y="30">r</tspan><tspan class="cls-5" x="110.85" y="30">dam</tspan></text>
+  </g>
+</svg>
